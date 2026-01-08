@@ -1,1 +1,1 @@
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#%3E%3E%40v2ray1_ng%3A%3AKZ
+vless://dfd30304-9c58-4ff4-8ba0-b70af154fbc9@151.236.93.44:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AKZ
