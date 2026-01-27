@@ -1,2 +1,6 @@
-vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://00000000-0000-4000-8000-000000000000@175.41.167.160:10101/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://00000000-0000-4000-8000-000000000000@47.129.153.84:15789/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://00000000-0000-4000-8000-000000000000@54.255.217.120:4096/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%3E%3E%40oneclickvpnkeys%3A%3ASG
