@@ -1,3 +1,2 @@
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://00000000-0000-4000-8000-000000000000@126.163.80.176:10463/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://00000000-0000-4000-8000-000000000000@166.88.2.71:16122/?type=ws&encryption=none&flow=&host=oty.myto.ip-ddns.com&path=%2F%40Marisa_kristi&security=tls&sni=oty.myto.ip-ddns.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AJP
