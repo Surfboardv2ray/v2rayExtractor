@@ -1,1 +1,0 @@
-vless://448ec8dc-1cd0-44ee-88a3-69ecac3057e2@brenna.ns.cloudflare.com:443?path=%2Fhqlmxvws&security=tls&encryption=none&insecure=1&host=639052472056056886.altima-rvltnb.info&type=ws&allowInsecure=1&sni=639052472056056886.altima-rvltnb.info#%3E%3E%40configV2rayNG%3A%3AGR
