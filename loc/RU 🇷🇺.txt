@@ -1,1 +1,1 @@
-vless://8e32b948-54ca-41c6-b02b-5eb79a8316fc@ip.hamrahto.com:8443?path=%2F&security=tls&encryption=none&host=hm33333.mutee.com.tr&fp=chrome&type=ws&sni=hm33333.mutee.com.tr#%3E%3E%40v2nodes%3A%3ARU
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@109.120.190.203:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
