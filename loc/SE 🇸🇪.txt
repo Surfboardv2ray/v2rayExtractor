@@ -1,2 +1,1 @@
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3ASE
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@secdn18.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn18.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASE
