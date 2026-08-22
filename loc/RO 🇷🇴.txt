@@ -1,1 +1,0 @@
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=ro-3.ariyuz.org&path=%2F&security=tls&sni=ro-3.ariyuz.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARO
