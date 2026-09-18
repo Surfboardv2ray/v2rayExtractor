@@ -1,1 +1,2 @@
 vless://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.134.170:443?path=%2Fstream%2FPANEL_ZEUS%2F635698a6bb9c%2Floc-0&security=tls&encryption=none&insecure=0&host=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&allowInsecure=0&sni=jdzit4e4urks.xwzohsebujps.workers.dev#%3E%3E%40configV2rayNG%3A%3ATR
+vless://c26fe2f0-5c69-0015-8a1a-bf116ceb9215@c-1.mrcloudi.ir:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=jsv-p-tr1.donick.ir&insecure=0&allowInsecure=0#%3E%3E%40vmessorg%3A%3ATR
